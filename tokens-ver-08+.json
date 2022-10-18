@@ -1162,6 +1162,10 @@
         "value": "$brand.casa-brand",
         "type": "color"
       }
+    },
+    "JansTokenOfMightiness": {
+      "value": "#e40375",
+      "type": "color"
     }
   },
   "$themes": [],
